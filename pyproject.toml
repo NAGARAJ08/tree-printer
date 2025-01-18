@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "dir-tree-printer"
-version = "0.1.0"
+version = "0.1.1"
 description = "A simple utility to print directory structures in a tree-like format"
 readme = "README.md"
 authors = [{ name = "Nagaraj K", email = "kbnagaraj18@gmail.com" }]
