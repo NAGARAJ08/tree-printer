@@ -15,7 +15,7 @@ Tree Printer solves this by automatically generating a clean, consistent directo
 
 Run:
 ```bash
-tree-printer /path/to/your/project
+dir-tree-printer /path/to/your/project
 ```
 
 Get:
@@ -35,7 +35,7 @@ Now you can directly paste this into your README, documentation, or anywhere els
 ## Installation
 
 ```bash
-pip install tree-printer
+pip install dir-tree-printer
 ```
 
 ## Usage
@@ -43,10 +43,10 @@ pip install tree-printer
 ### Command Line
 ```bash
 # Basic usage
-tree-printer /path/to/directory
+dir-tree-printer /path/to/directory
 
 # Exclude specific folders
-tree-printer /path/to/directory --exclude node_modules .git
+dir-tree-printer /path/to/directory --exclude node_modules .git
 ```
 
 ### Python API

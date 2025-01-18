@@ -1,4 +1,4 @@
-from tree_printer import TreePrinter
+from dir_tree_printer import TreePrinter
 
 
 def main():

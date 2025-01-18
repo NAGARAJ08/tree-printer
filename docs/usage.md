@@ -2,16 +2,16 @@
 # Tree Printer Documentation
 
 ## Installation
-```pip install tree-printer```
+```pip install dir-tree-printer```
 
 ## Usage
 ### Command Line Interface
 ```bash
 # Basic usage
-tree-printer /path/to/directory
+dir-tree-printer /path/to/directory
 
 # Exclude specific folders
-tree-printer /path/to/directory --exclude folder1 folder2
+dir-tree-printer /path/to/directory --exclude folder1 folder2
 ```
 
 ### Python API

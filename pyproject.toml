@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "tree-printer"
+name = "dir-tree-printer"
 version = "0.1.0"
 description = "A simple utility to print directory structures in a tree-like format"
 readme = "README.md"
@@ -22,4 +22,4 @@ requires-python = ">=3.7"
 Homepage = "https://github.com/NAGARAJ08/tree-printer"
 
 [project.scripts]
-tree-printer = "tree_printer.cli:main"
+dir-tree-printer = "dir_tree_printer.cli:main"
