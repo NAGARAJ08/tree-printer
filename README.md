@@ -1,5 +1,8 @@
 # Tree Printer
 
+[![PyPI version](https://badge.fury.io/py/kafka-replay.svg)](https://pypi.org/project/dir-tree-printer/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 A simple Python library that helps developers generate and share their project directory structures. Perfect for documenting project layouts in GitHub READMEs, technical documentation, or when explaining project organization to other developers.
 
 ## Why Tree Printer?
